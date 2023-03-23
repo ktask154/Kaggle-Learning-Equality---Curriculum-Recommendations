@@ -15,7 +15,7 @@ F2 score
 ## Models
 - stsb-xlm-r-multilingual (First Stage)
 
-- paraphrase-multilingual-mpnet-base-v2 (Seconde Stage)
+- paraphrase-multilingual-mpnet-base-v2 (Second Stage)
 
 <br />
 
@@ -29,7 +29,7 @@ F2 score
     - MultipleNegativesRankingLoss
   - step2 : Clustering Unsupervised train set
     - K-Top : 50
-- Sconde Stage
+- Second Stage
    - step3 : ReRanking
    - step4 : Inference
    
