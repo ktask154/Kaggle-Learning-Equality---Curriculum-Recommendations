@@ -1,4 +1,4 @@
-# Kaggle-Learning-Equality---Curriculum-Recommendations
+# Kaggle-Learning-Equality---Curriculum-Recommendations　103th place solution 🥉
 
 [link](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations)
 
